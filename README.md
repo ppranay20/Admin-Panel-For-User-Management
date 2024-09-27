@@ -32,9 +32,9 @@ npm run dev
    ```
 
 2. **Set Up the Backend:**
-```bash
-json-server --watch db.json --port 3000
-```
+   ```bash
+   json-server --watch db.json --port 3000
+   ```
 
 ### **Libraries and Frameworks Used:**
 
